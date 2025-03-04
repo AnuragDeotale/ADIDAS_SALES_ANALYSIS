@@ -1,4 +1,4 @@
-# ADIDAS SALES ANALYSIS (Interactive Dashboard creation using Poer BI & MS Excel)
+# ADIDAS SALES ANALYSIS (Interactive Dashboard creation using Power BI & MS Excel)
 ## Business Requirement
 To conduct a comprehensive analysis of Adidas sales performance, Adidas aims to empower its decision-makers with data-driven insights, fostering strategic growth and competitiveness in the dynamic sports and athletic industry.
 
@@ -31,12 +31,12 @@ Visualize the contribution of different retailers to total sales using a bar cha
 
  
 ## Dataset used
-- <a href="https://github.com/AnuragDeotale/Blinkit_Analysis/blob/5a05ce1024f4617ae6b0bd989370fc5c5915f142/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+- <a href="https://github.com/AnuragDeotale/ADIDAS_SALES_ANALYSIS/blob/1134c486539eb1ae0d7dbe904fef63b5d7e7eeeb/Adidas%20US%20Sales%20Datasets.xlsx">Dataset</a>
 
 
 
 ## Dashboard Interaction 
-<a href="https://github.com/AnuragDeotale/Blinkit_Analysis/blob/5a05ce1024f4617ae6b0bd989370fc5c5915f142/Blinkit.pbix">View Dashboard</a>
+<a href="https://github.com/AnuragDeotale/ADIDAS_SALES_ANALYSIS/blob/1134c486539eb1ae0d7dbe904fef63b5d7e7eeeb/Adidas%20Analysis.pbix">View Dashboard</a>
 
 ## Process
 - Requirement Gathering / Business Requirements
@@ -53,60 +53,20 @@ Visualize the contribution of different retailers to total sales using a bar cha
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/AnuragDeotale/Blinkit_Analysis/blob/5a05ce1024f4617ae6b0bd989370fc5c5915f142/Dashboard.png)
+![Screenshot (495)](https://github.com/AnuragDeotale/ADIDAS_SALES_ANALYSIS/blob/1134c486539eb1ae0d7dbe904fef63b5d7e7eeeb/Screenshot%202025-03-04%20183908.png)
 
 ## Key Insights from the Dashboard
 
 ### **Overall Performance**
-- **Total Sales:** $1.20M  
-- **Average Sale:** $140.99  
-- **Total Items Sold:** 8,523  
-- **Average Rating:** 3.90  
+- **Total Sales:** $900M  
+- **Operating Profit:** $332M  
+- **Units Sold:** 2M  
+- **Price per Unit:** $45
+- **Operating Margin:** 42%
 
-### **Fat Content & Sales Impact**
-- **Regular fat items contribute the most to total sales (~$776.32K)**, while low-fat items contribute around $425.36K.
-- Across different tiers, **Tier 3 outlets have higher sales of low-fat items** compared to other tiers.
+### **Sales Report**
+- Sales in the west region is highest is highest around 30% .
+- Sale of Product is highest in July Month ( ~ 95M ).
+- Men's Street Footwear is the highest selling category with  sales around  of $209M.
+- With respect to Retailer's West Gear has sold products of Adidas worth $243M.
 
-### **Item Type Sales Performance**
-- **Fruits & Vegetables and Snack Foods** are the **top-selling categories (~$180K each)**.
-- Other high-performing categories include **Household, Frozen Foods, and Dairy**.
-
-### **Outlet Establishment Impact on Sales**
-- A **peak in total sales ($205K) was observed around 2018**.
-- Older establishments tend to have relatively stable sales over time.
-
-### **Outlet Size Analysis**
-- **Large outlets generate the highest revenue (~$507.90K)** compared to medium ($444.79K) and small ($248.99K).
-
-### **Sales by Location**
-- **Tier 3 locations lead with $472.13K** in sales, followed by **Tier 2 ($393.15K) and Tier 1 ($336.40K)**.
-
-### **Outlet Type Performance**
-- **Supermarket Type 1 dominates sales (~$787.55K)**, while **Grocery Stores generate the least (~$151.94K)**.
-- **Average sales and ratings are consistent across outlet types**.
-
----
-
-## Conclusion
-
-The analysis of Blinkit's sales data highlights several key areas for optimization:
-
-1. **Optimize Inventory Management:**  
-   - Focus on high-demand items like **Fruits & Vegetables, Snack Foods, and Household products**.  
-   - Improve stock levels of **low-performing categories** to reduce waste.
-
-2. **Enhance Customer Satisfaction:**  
-   - With an **average rating of 3.90**, improvements in product quality, delivery speed, and service can enhance customer experience.  
-
-3. **Focus on High-Performing Locations & Outlets:**  
-   - **Tier 3 and Tier 2 locations generate the highest sales**, making them ideal for expansion and marketing efforts.  
-   - **Supermarket Type 1 contributes most to revenue**, suggesting a focus on similar store formats.
-
-4. **Leverage Data for Strategic Growth:**  
-   - Sales peaked in **2018 ($205K)**—analyzing this trend can provide insights into market dynamics.  
-   - **Large outlets generate the most revenue**, making them a better investment for future expansion.
-
-5. **Forecast Future Sales & Market Trends:**  
-   - Utilize historical data trends to build forecasting models in Power BI to predict demand fluctuations.  
-
----
